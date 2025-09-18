@@ -32,7 +32,7 @@ WHERE
 
 -- Developed SQL queries to answer specific business questions:
 
--- 1.SQL query to retrieve all columns for sales made on '2022-11-05**:
+-- 1.SQL query to retrieve all columns for sales made on '2022-11-05'.
 
 SELECT *
 FROM minimarket_retail.sales_analysis
